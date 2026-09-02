@@ -8,7 +8,7 @@
 
 | Роль | Прізвище, Ім'я | GitHub Профіль |
 | :--- | :--- | :--- |
-| **Project Manager (Team Lead)** | Прізвище Ім'я | [@username](https://github.com/username) |
+| **Project Manager (Team Lead)** | Лисовець Григорій | [@GregoryLysovets](https://github.com/GregoryLysovets) |
 | **Product Owner** | Прізвище Ім'я | [@username](https://github.com/username) |
 | **Business/System Analyst** | Прізвище Ім'я | [@username](https://github.com/username) |
 | **UI/UX Designer** | Черненко Ярослав | [@Belak32](https://github.com/Belak32) |
