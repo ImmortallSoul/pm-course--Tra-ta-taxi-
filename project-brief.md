@@ -34,7 +34,7 @@
 
 | ПІБ | Роль | GitHub-username |
 | :--- | :--- | :--- |
-| *[Ім'я Прізвище]* | Project Manager | [@username1](https://github.com/username1) |
+| *[Ім'я Прізвище]* | Project Manager | [@GregoryLysovets](https://github.com/GregoryLysovets) |
 | *[Ім'я Прізвище]* | Product Owner | [@username2](https://github.com/username2) |
 | **Коновал Роман** | Developer | [@ImmortallSoul](https://github.com/ImmortallSoul) |
 | **Черненко Ярослав** | Designer | [@Belak32](https://github.com/Belak32) |
