@@ -32,10 +32,10 @@
 
 ## Склад команди та ролі
 
-| ПІБ | Роль | GitHub-username |
+| Роль | Прізвище, Ім'я | GitHub Профіль |
 | :--- | :--- | :--- |
-| **Лисовець Григорій** | Project Manager | [@GregoryLysovets](https://github.com/GregoryLysovets) |
-| *[Ім'я Прізвище]* | Product Owner | [@username2](https://github.com/username2) |
-| **Коновал Роман** | Developer | [@ImmortallSoul](https://github.com/ImmortallSoul) |
-| **Черненко Ярослав** | Designer | [@Belak32](https://github.com/Belak32) |
-| *[Ім'я Прізвище]* | Analyst | [@username5](https://github.com/username5) |
+| **Project Manager (Team Lead)** | Лисовець Григорій | [@GregoryLysovets](https://github.com/GregoryLysovets) |
+| **Product Owner** | Прізвище Ім'я | [@username](https://github.com/username) |
+| **Business/System Analyst** | Прізвище Ім'я | [@username](https://github.com/username) |
+| **UI/UX Designer** | Черненко Ярослав | [@Belak32](https://github.com/Belak32) |
+| **Developer** | Коновал Роман | [@ImmortallSoul](https://github.com/ImmortallSoul) |
