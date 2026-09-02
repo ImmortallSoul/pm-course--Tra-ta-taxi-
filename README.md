@@ -11,8 +11,8 @@
 | **Project Manager (Team Lead)** | Прізвище Ім'я | [@username](https://github.com/username) |
 | **Product Owner** | Прізвище Ім'я | [@username](https://github.com/username) |
 | **Business/System Analyst** | Прізвище Ім'я | [@username](https://github.com/username) |
-| **UI/UX Designer** | Прізвище Ім'я | [@username](https://github.com/username) |
-| **Developer** | Прізвище Ім'я | [@username](https://github.com/username) |
+| **UI/UX Designer** | Черненко Ярослав | [@Belak32](https://github.com/Belak32) |
+| **Developer** | Коновал Роман | [@ImmortallSoul](https://github.com/ImmortallSoul) |
 
 ---
 
