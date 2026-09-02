@@ -1,1 +1,32 @@
-# pm-course--Tra-ta-taxi-
+# Tra-ta-taxi
+
+> Короткий слоган або суть проєкту в одне речення (наприклад: Вебсервіс для зручного планування дедлайнів та командної роботи студентів).
+
+---
+
+## 👥 Склад команди та розподіл ролей
+
+| Роль | Прізвище, Ім'я | GitHub Профіль |
+| :--- | :--- | :--- |
+| **Project Manager (Team Lead)** | Прізвище Ім'я | [@username](https://github.com/username) |
+| **Product Owner** | Прізвище Ім'я | [@username](https://github.com/username) |
+| **Business/System Analyst** | Прізвище Ім'я | [@username](https://github.com/username) |
+| **UI/UX Designer** | Прізвище Ім'я | [@username](https://github.com/username) |
+| **Developer** | Прізвище Ім'я | [@username](https://github.com/username) |
+
+---
+
+## 📄 Документація проєкту
+
+Повний концептуальний опис проєкту, аналіз цільової аудиторії та ключовий функціонал зафіксовано в окремому документі:
+
+👉 **[Переглянути Project Brief (project-brief.md)](./project-brief.md)**
+
+---
+
+## 🛠 Технологічний стек (попередній)
+* **Frontend:** React, Tailwind CSS / HTML, CSS, JS
+* **Backend:** Node.js / Python / C# (.NET) / PHP
+* **База даних:** PostgreSQL / MySQL / MongoDB
+* **Дизайн:** Figma
+* **Управління:** GitHub Projects / Issues
