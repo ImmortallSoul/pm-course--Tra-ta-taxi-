@@ -21,7 +21,9 @@
 Повний концептуальний опис проєкту, аналіз цільової аудиторії та ключовий функціонал зафіксовано в окремому документі:
 
 👉 **[Переглянути Project Brief (project-brief.md)](./project-brief.md)**
+
 👉 **[Переглянути Project Brief (project-brief.md)](./project-classification.md)**
+
 👉 **[Переглянути Project Brief (project-brief.md)](./project-lifecycle.md)**
 
 ---
