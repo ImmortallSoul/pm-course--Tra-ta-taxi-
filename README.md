@@ -22,9 +22,9 @@
 
 👉 **[Переглянути Project Brief (project-brief.md)](./project-brief.md)**
 
-👉 **[Переглянути Project Brief (project-brief.md)](./project-classification.md)**
+👉 **[Переглянути Project Classification (project-classification.md)](./project-classification.md)**
 
-👉 **[Переглянути Project Brief (project-brief.md)](./project-lifecycle.md)**
+👉 **[Переглянути Project Lifecycle (project-lifecycle.md)](./project-lifecycle.md)**
 
 ---
 
