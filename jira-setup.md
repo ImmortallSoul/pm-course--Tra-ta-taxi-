@@ -27,9 +27,9 @@
 ## Team
 | Ім'я | Jira Username | Роль у проекті |
 |------|--------------|----------------|
-| Коновал Роман Володимирович | Роман Володимирович Коновал | Project Administrator / Developer |
+| Коновал Роман Володимирович | kn24-r.konoval@nubip.edu.ua | Project Administrator / Developer |
 | Глазунов А. (Викладач) | a-hlazunov@nubip.edu.ua | Member / Reviewer |
-| Блиндюк Микола Миколайович | Блиндюк Микола Миколайович | Project Manager (Team Lead) |
+| Блиндюк Микола Миколайович | kn24-m.blyndiuk@nubip.edu.ua | Project Manager (Team Lead) |
 
 ## Рефлексія
 1. **Які труднощі виникли при оцінці Story Points?**
