@@ -26,6 +26,7 @@
 
 👉 **[Переглянути Project Lifecycle (project-lifecycle.md)](./project-lifecycle.md)**
 
+👉 **[Переглянути Project Lifecycle (project-lifecycle.md)](./jira-setup.md)**
 ---
 
 ## 🛠 Технологічний стек (попередній)
