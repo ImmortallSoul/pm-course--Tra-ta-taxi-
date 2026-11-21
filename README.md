@@ -26,7 +26,7 @@
 
 👉 **[Переглянути Project Lifecycle (project-lifecycle.md)](./project-lifecycle.md)**
 
-👉 **[Переглянути Project Lifecycle (project-lifecycle.md)](./jira-setup.md)**
+👉 **[Переглянути Jira (jira-setup.md)](./jira-setup.md)**
 
 ---
 
