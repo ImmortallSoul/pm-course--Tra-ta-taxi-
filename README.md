@@ -28,6 +28,8 @@
 
 👉 **[Переглянути Jira (jira-setup.md)](./jira-setup.md)**
 
+👉 **[Переглянути Time-Cost-Plan (docs/time-cost-plan.md)](./docs/time-cost-plan.md)**
+
 ---
 
 ## 🛠 Технологічний стек (попередній)
