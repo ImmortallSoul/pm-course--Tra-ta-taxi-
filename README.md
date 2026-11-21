@@ -16,9 +16,17 @@
 
 ---
 
+## 🔗 Управління проєктом (Jira)
+
+🗺️ **[Відкрити Jira Roadmap (Хронологія проєкту Tra-ta-taxi)](https://nubip-team-rjfeaidz.atlassian.net/jira/software/projects/TTT/boards/1/timeline)**
+
+📋 **[Відкрити Jira Board (Дошка проєкту)](https://nubip-team-rjfeaidz.atlassian.net/jira/software/projects/TTT/boards/1)**
+
+---
+
 ## 📄 Документація проєкту
 
-Повний концептуальний опис проєкту, аналіз цільової аудиторії та ключовий функціонал зафіксовано в окремому документі:
+Повний концептуальний опис проєкту, аналіз цільової аудиторії та ключовий функціонал зафіксовано в окремих документах:
 
 👉 **[Переглянути Project-Brief (project-brief.md)](./project-brief.md)**
 
@@ -33,8 +41,8 @@
 ---
 
 ## 🛠 Технологічний стек (попередній)
-* **Frontend:** React, Tailwind CSS / HTML, CSS, JS
-* **Backend:** Node.js / Python / C# (.NET) / PHP
-* **База даних:** PostgreSQL / MySQL / MongoDB
-* **Дизайн:** Figma
-* **Управління:** GitHub Projects / Issues
+- **Frontend:** React, Tailwind CSS / HTML, CSS, JS
+- **Backend:** Node.js / Python / C# (.NET) / PHP
+- **База даних:** PostgreSQL / MySQL / MongoDB
+- **Дизайн:** Figma
+- **Управління:** Jira / GitHub Projects / Issues
