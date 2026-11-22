@@ -29,7 +29,7 @@
 |------|--------------|----------------|
 | Коновал Роман Володимирович | kn24-r.konoval@nubip.edu.ua | Project Administrator / Developer |
 | Блиндюк Микола Миколайович | kn24-m.blyndiuk@nubip.edu.ua | Project Manager (Team Lead) |
-| Черненко Ярослав Олександрович | kn24-m.blyndiuk@nubip.edu.ua | UI/UX Designer |
+| Черненко Ярослав Олександрович | kn24-ya.chernenko@nubip.edu.ua | UI/UX Designer |
 | Лисовець Григорій Віталійович | kn24-m.blyndiuk@nubip.edu.ua | Project Owner |
 | Яковець Артем Вікторович | kn24-m.blyndiuk@nubip.edu.ua | Business/System Analyst |
 | Глазунов А. (Викладач) | a-hlazunov@nubip.edu.ua | Member / Reviewer |
