@@ -106,19 +106,19 @@
 ## 2.9. Скріншоти з Jira
 
 ### 1. Backlog з Labels
-![Backlog з Labels](../img/lab9-labels.png)
+![Backlog з Labels](../img/lab6-labels.png)
 
 ### 2. Board по Assignee
-![Board по Assignee](../img/lab9-workload.png)
+![Board по Assignee](../img/lab6-workload.png)
 
 ### 3. Board по Labels
-![Board по Labels](../img/lab9-areas.png)
+![Board по Labels](../img/lab6-areas.png)
 
 ### 4. Velocity report
-![Velocity report](../img/lab9-velocity.png)
+![Velocity report](../img/lab6-velocity.png)
 
 ### 5. Details → Default assignee
-![Details Default assignee](../img/lab9-default-assignee.png)
+![Details Default assignee](../img/lab6-default-assignee.png)
 
 ---
 
