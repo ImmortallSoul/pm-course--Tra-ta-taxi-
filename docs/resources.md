@@ -116,7 +116,8 @@
 ![Board по Assignee](../img/lab6-workload2.png)
 
 ### 3. Board по Labels
-![Board по Labels](../img/lab6-areas.png)
+![Board по Labels](../img/lab6-areas1.png)
+![Board по Labels](../img/lab6-areas2.png)
 
 ### 4. Velocity report
 ![Velocity report](../img/lab6-velocity.png)
