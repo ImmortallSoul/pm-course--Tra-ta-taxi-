@@ -38,6 +38,8 @@
 
 👉 **[Переглянути Time-Cost-Plan (docs/time-cost-plan.md)](./docs/time-cost-plan.md)**
 
+👉 **[Переглянути Resources (/docs/resources.md)](./docs/resources.md)**
+
 ---
 
 ## 🛠 Технологічний стек (попередній)
