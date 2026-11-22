@@ -10,7 +10,7 @@
 | :--- | :--- | :--- |
 | **Project Owner** | Лисовець Григорій | [@GregoryLysovets](https://github.com/GregoryLysovets) |
 | **Project Manager (Team Lead)** | Блиндюк Микола | [@Zunix18](https://github.com/Zunix18) |
-| **Business/System Analyst** | Яковець Артем | [@username](https://github.com/username) |
+| **Business/System Analyst** | Яковець Артем | [@username](https://github.com/ArtemYakovets) |
 | **UI/UX Designer** | Черненко Ярослав | [@Belak32](https://github.com/Belak32) |
 | **Developer** | Коновал Роман | [@ImmortallSoul](https://github.com/ImmortallSoul) |
 
