@@ -113,7 +113,6 @@
 
 ### 2. Board по Assignee
 ![Board по Assignee](../img/lab6-workload1.png)
-
 ![Board по Assignee](../img/lab6-workload2.png)
 
 ### 3. Board по Labels
