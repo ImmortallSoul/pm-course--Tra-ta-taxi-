@@ -112,7 +112,9 @@
 ![Backlog з Labels](../img/lab6-labels.png)
 
 ### 2. Board по Assignee
-![Board по Assignee](../img/lab6-workload.png)
+![Board по Assignee](../img/lab6-workload1.png)
+
+![Board по Assignee](../img/lab6-workload2.png)
 
 ### 3. Board по Labels
 ![Board по Labels](../img/lab6-areas.png)
